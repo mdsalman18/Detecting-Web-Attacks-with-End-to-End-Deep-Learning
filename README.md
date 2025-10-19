@@ -152,5 +152,3 @@ Standard supervised learning classifiers trained on preprocessed features.
 * Deep learning sequential model
 * Applied over encoded features
 
-
-Would you like the `requirements.txt` or `.sql` dump file generated too?
